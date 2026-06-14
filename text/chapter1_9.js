@@ -1,5 +1,5 @@
 // 第1章のタイトルとIDを登録
-window.quizConfig.chapters.push({ id: 1, name: "英語文法（文型〜受動態） " });
+window.quizConfig.chapters.push({ id: 9, name: "英語文法（文型〜受動態） " });
 
 // 第1章の問題データ（50問）
 window.quizConfig.questions.push(
